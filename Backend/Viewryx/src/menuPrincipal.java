@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class menuPrincipal {
-    public static void menuPrincipal(String[] args) {
+    public static void menuPrincipal() {
         int opcion = 0;
         Scanner scanner = new Scanner(System.in);
         do {
